@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">art</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="p_mona_lisa">Monna Lisa</string>
+    <string name="a_leonardo">Leonardo da Vinci</string>
+    <string name="p_starry_night">La noche estrellada</string>
+    <string name="a_vincent">Vicent van Gogh</string>
+    <string name="p_girl">Girl with a Pearl Earring</string>
+    <string name="a_johannes">Johannes Vermeer</string>
 </resources>
